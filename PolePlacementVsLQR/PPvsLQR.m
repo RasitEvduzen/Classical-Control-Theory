@@ -1,5 +1,5 @@
 %% Pole Placement Design via Ackerman VS LQR
-clc,clear all,close all; UGURCAN
+clc,clear all,close all; 
 % System Matrix
 A = [0 1 0; 0 0 1; -1 -5 -6];
 B = [0 0 1]';
